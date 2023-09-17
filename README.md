@@ -39,7 +39,7 @@ The project is organized into the following sections:
 - **Sales Analysis**: Insights into product categories and specific products that are top sellers.
 
 ## Dataset
-1. SuperStore_Sales_Dataset
+1. **SuperStore_Sales_Dataset-**
 The dataset consists of the following columns:
 
 - `Row ID`: Unique identifier for each row.
@@ -65,7 +65,7 @@ The dataset consists of the following columns:
 - `Payment Mode`: Payment mode used for the order.
 - `AvgDelivery`: Average Delivery
   
-2. SalesForecast
+2. **SalesForecast-**
 The dataset consists of the following columns:
 
 - `Order Date`: Date when the order was placed.
@@ -101,6 +101,6 @@ We would like to thank the Power BI community and the open-source software commu
 
 Enjoy exploring and analyzing your company's HR data with the HR Analytics Dashboard! If you have any questions, feedback, or encounter any issues, please don't hesitate to reach out.
 
-**Project Maintainer:** [Zaid Shaikh](https://github.com/DiazSk)
+**Project Maintainer:** [DiazSk](https://github.com/DiazSk)
 **Contact:** [zaid07sk@gmail.com](mailto:zaid07sk@gmail.com)
 
