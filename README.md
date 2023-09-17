@@ -83,11 +83,7 @@ The dataset consists of the following columns:
 
 ## Dependencies
 
-The project relies on Python 3.x and various libraries for data analysis, including pandas, matplotlib, and scikit-learn. To install the required libraries, use the following command:
-
-```bash
-pip install pandas matplotlib scikit-learn
-```
+This project relies on Power BI Desktop to create and interact with the dashboard. Ensure you have Power BI Desktop installed to open and explore the dashboard.
 
 ## Contributing
 
