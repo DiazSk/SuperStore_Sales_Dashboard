@@ -97,9 +97,14 @@ If you have any suggestions for improvements, additional analysis, or new insigh
 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code as needed, but please provide proper attribution.
 
+## Acknowledgments
+
+We would like to thank the Power BI community and the open-source software community for their valuable contributions and support in creating this HR Analytics Dashboard.
+
 ---
 
-We hope you find the insights and sales forecasting capabilities of this project valuable for your business. If you have any questions or feedback, please don't hesitate to reach out.
+Enjoy exploring and analyzing your company's HR data with the HR Analytics Dashboard! If you have any questions, feedback, or encounter any issues, please don't hesitate to reach out.
 
-**Project Maintainer:** [DiazSk](https://github.com/DiazSk)
+**Project Maintainer:** [Zaid Shaikh](https://github.com/DiazSk)
 **Contact:** [zaid07sk@gmail.com](mailto:zaid07sk@gmail.com)
+
