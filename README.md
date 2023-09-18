@@ -1,7 +1,6 @@
 # Sales Forecasting and Data Analysis
 
-![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/5e7d5f0e-1cb7-42b8-9a96-75fa230b6896)
-
+![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/f2b78d12-d64b-443c-bbb2-4e6a7f54eb5d)
 
 ## Overview
 
