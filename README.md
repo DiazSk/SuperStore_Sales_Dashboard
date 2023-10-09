@@ -84,6 +84,7 @@ The dataset consists of the following columns:
 ## Screenshots
 
 ![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/f2b78d12-d64b-443c-bbb2-4e6a7f54eb5d)
+
 ![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/0bd09632-9dd9-4606-b7cd-3e6c4eec411e)
 
 ## Dependencies
