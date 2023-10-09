@@ -12,10 +12,11 @@ The primary objective of this project is to contribute to the success of a busin
 2. [Project Structure](#project-structure)
 3. [Dataset](#dataset)
 4. [How to Use](#how-to-use)
-5. [Dependencies](#dependencies)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+5. [Screenshots](#screenshots)
+6. [Dependencies](#dependencies)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
 
 ## Key Features
 
@@ -79,6 +80,11 @@ The dataset consists of the following columns:
 3. **Visualizations**: Interact with various visualizations to visualize the data effectively. Click on specific data points to drill down and explore further.
 
 4. **Exporting Data**: If needed, you can export data or images of visualizations directly from the dashboard.
+
+## Screenshots
+
+![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/f2b78d12-d64b-443c-bbb2-4e6a7f54eb5d)
+![image](https://github.com/DiazSk/SuperStore_Sales_Dashboard/assets/92885761/0bd09632-9dd9-4606-b7cd-3e6c4eec411e)
 
 ## Dependencies
 
